@@ -99,9 +99,6 @@ python app.py
 * `tqdm`
 🔹 **Install all with:**
 
-```bash
-pip install -r requirements.txt
-```
 
 **🙌 Contributing**
 🚀 Contributions are welcome!
@@ -109,8 +106,7 @@ pip install -r requirements.txt
 * Create a new branch
 * Commit your changes
 * Open a Pull Request
-**📜 License**
-This project is **open-source** under the MIT License.
+
 **📞 Contact**
-📧 **Email:** yourname@email.com 🐦 **Twitter:** @yourhandle 👨‍💻 **GitHub:** yourusername
+📧 **Email:** kabirsahu725@gmail.com 👨‍💻 **GitHub:** kabira325
 🎯 **Star 🌟 this repo if you found it useful!** 🚀
