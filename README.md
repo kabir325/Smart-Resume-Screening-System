@@ -1,4 +1,4 @@
-# **📄 Resume Classifier using BERT 🚀**  
+# **📄 Smart Resume Screening System 🚀**  
 
 🎯 **Automatically match resumes with the best job descriptions using NLP & Machine Learning (BERT).**  
 
@@ -26,8 +26,8 @@ This project uses **BERT (Bidirectional Encoder Representations from Transformer
 ## **🚀 Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/resume-classifier.git
-cd resume-classifier
+git clone https://github.com/kabira325/Smart Resume Screening System.git
+cd Smart-Resume-Screening-System
 ```
 
 **2️⃣ Create & Activate Virtual Environment**
