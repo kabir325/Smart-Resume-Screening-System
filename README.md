@@ -50,6 +50,8 @@ pip install -r requirements.txt
 
 https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset?resource=download
 
+Place the dataset in this manner
+dataset/resume_data.csv
 
 **5️⃣ Train the Model**
 
