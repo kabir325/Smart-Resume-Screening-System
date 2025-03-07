@@ -1,0 +1,11 @@
+torch
+transformers
+pdfplumber
+joblib
+scikit-learn
+pandas
+numpy
+nltk
+PyQt6
+kaggle
+tqdm
