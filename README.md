@@ -26,7 +26,7 @@ This project uses **BERT (Bidirectional Encoder Representations from Transformer
 ## **🚀 Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/kabira325/Smart Resume Screening System.git
+git clone https://github.com/kabir325/Smart-Resume-Screening-System.git
 cd Smart-Resume-Screening-System
 ```
 
