@@ -46,7 +46,8 @@ pip install -r requirements.txt
 
 **4️⃣ Download Dataset**
 
-*Download the Kaggle dataset from the following link**
+*Download the Kaggle dataset from the following link*
+
 https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset?resource=download
 
 
